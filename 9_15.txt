@@ -1,0 +1,127 @@
+C:\Program Files (x86)\Jagannatha Hora\data\07_September_2007_Nifty
+
+Transit
+
+Date:          June 27, 2022
+Time:          9:15:00
+Time Zone:     5:30:00 (East of GMT)
+Place:         72 E 50' 00", 18 N 58' 00"
+               Mumbai, India
+Altitude:      0.00 meters
+
+Lunar Yr-Mo:   Shubha-krit - Jyeshtha
+Tithi:         Krishna Chaturdasi (Ve) (78.01% left)
+Vedic Weekday: Monday (Mo)
+Nakshatra:     Rohini (Mo) (16.61% left)
+Yoga:          Ganda (Sa) (73.01% left)
+Karana:        Vishti (Sa) (56.03% left)
+Hora Lord:     Mars (5 min sign: Sg)
+Mahakala Hora: Jupiter (5 min sign: Li)
+Kaala Lord:    Rahu (Mahakala: Rahu)
+
+Sunrise:       6:07:37
+Sunset:        19:15:51
+Janma Ghatis:  7.8077
+
+Ayanamsa:      23-02-10.93
+Sidereal Time: 2:57:18
+
+C:\Program Files (x86)\Jagannatha Hora\data\07_September_2007_Nifty
+
+Natal Chart
+
+Date:          September 17, 2007
+Time:          9:15:00
+Time Zone:     5:30:00 (East of GMT)
+Place:         72 E 50' 00", 18 N 58' 00"
+               Mumbai, India
+Altitude:      0.00 meters
+
+Lunar Yr-Mo:   Sarva-jit - Bhadrapada
+Tithi:         Sukla Shashthi (Ve) (84.62% left)
+Vedic Weekday: Monday (Mo)
+Nakshatra:     Visakha (Ju) (3.18% left)
+Yoga:          Vishkambha (Sa) (70.19% left)
+Karana:        Kaulava (Ma) (69.25% left)
+Hora Lord:     Jupiter (5 min sign: Sc)
+Mahakala Hora: Jupiter (5 min sign: Li)
+Kaala Lord:    Rahu (Mahakala: Rahu)
+
+Sunrise:       6:30:05
+Sunset:        18:36:24
+Janma Ghatis:  6.8716
+
+Ayanamsa:      22-49-47.20
+Sidereal Time: 8:19:10
+
+Body                    Longitude        Nakshatra Pada Rasi Navamsa
+
+Lagna                   24 Cn 21' 18.01" Asre      3    Cn   Aq
+Sun - MK                12 Ge 28' 47.63" Ardr      2    Ge   Cp
+Moon - AmK              21 Ta 07' 05.49" Rohi      4    Ta   Cn
+Mars                     1 Ar 14' 47.86" Aswi      1    Ar   Ar
+Mercury - AK/GK         22 Ta 40' 36.88" Rohi      4    Ta   Cn
+Jupiter - BK            14 Pi 05' 48.84" UBha      4    Pi   Sc
+Venus - PiK             11 Ta 54' 02.13" Rohi      1    Ta   Ar
+Saturn (R) - PK/DK       1 Aq 49' 23.26" Dhan      3    Aq   Li
+Rahu                    28 Ar 53' 27.00" Krit      1    Ar   Sg
+Ketu                    28 Li 53' 27.00" Visa      3    Li   Ge
+Maandi                  17 Li 19' 17.49" Swat      4    Li   Pi
+Gulika                   5 Li 58' 55.42" Chit      4    Li   Sc
+Bhava Lagna             29 Cn 19' 33.40" Asre      4    Cn   Pi
+Hora Lagna              16 Vi 10' 19.16" Hast      2    Vi   Ta
+Ghati Lagna              6 Aq 42' 36.45" Sata      1    Aq   Sg
+Vighati Lagna           19 Cp 24' 02.92" Srav      3    Cp   Ge
+Varnada Lagna           24 Sg 21' 18.01" PSha      4    Sg   Sc
+Sree Lagna              24 Ta 32' 46.23" Mrig      1    Ta   Le
+Pranapada Lagna         19 Ta 24' 02.92" Rohi      3    Ta   Ge
+Indu Lagna              21 Pi 07' 05.49" Reva      2    Pi   Cp
+Bhrigu Bindu            10 Ta 00' 16.24" Rohi      1    Ta   Ar
+Dhooma                  25 Li 48' 47.63" Visa      2    Li   Ta
+Vyatipata                4 Vi 11' 12.37" UPha      3    Vi   Aq
+Parivesha                4 Pi 11' 12.37" UBha      1    Pi   Le
+Indra Chapa             25 Ar 48' 47.63" Bhar      4    Ar   Sc
+Upaketu                 12 Ta 28' 47.63" Rohi      1    Ta   Ar
+Kaala                    1 Sg 31' 34.29" Mool      1    Sg   Ar
+Mrityu                  15 Cn 24' 31.95" Push      4    Cn   Sc
+Artha Prahara            7 Le 53' 51.77" Magh      3    Le   Ge
+Yama Ghantaka            1 Vi 05' 02.03" UPha      2    Vi   Cp
+Prana Sphuta             7 Ta 45' 25.46" Krit      4    Ta   Pi
+Deha Sphuta             24 Sc 55' 39.33" Jye       3    Sc   Aq
+Mrityu Sphuta           24 Cp 21' 15.55" Dhan      1    Cp   Le
+Sookshma TriSphuta      27 Li 02' 20.34" Visa      3    Li   Ge
+Tithi Sphuta             8 Pi 38' 17.86" UBha      2    Pi   Vi
+Yoga Sphuta (Sun-Moon)   3 Le 35' 53.12" Magh      2    Le   Ta
+Rahu Tithi Sphuta       16 Aq 24' 39.36" Sata      3    Aq   Aq
+Kshetra Sphuta           6 Ta 27' 42.20" Krit      3    Ta   Aq
+Beeja Sphuta             8 Cn 28' 38.60" Push      2    Cn   Vi
+TriSphuta               21 Pi 27' 18.91" Reva      2    Pi   Cp
+ChatusSphuta             3 Ge 56' 06.55" Mrig      4    Ge   Sc
+PanchaSphuta             2 Cn 49' 33.54" Puna      4    Cn   Cn
+AL                      17 Pi 52' 52.97" Reva      1    Pi   Sg
+A2                       0 Ar 36' 17.26" Aswi      1    Ar   Ar
+A3                      20 Cp 59' 55.76" Srav      4    Cp   Cn
+A4                      29 Sc 26' 46.24" Jye       4    Sc   Pi
+A5                       8 Le 08' 17.72" Magh      3    Le   Ge
+A6                       3 Ge 50' 19.68" Mrig      4    Ge   Sc
+A7                       9 Sc 17' 28.51" Anu       2    Sc   Vi
+A8                       3 Cn 25' 35.98" Push      1    Cn   Le
+A9                       3 Pi 50' 19.68" UBha      1    Pi   Le
+A10                      8 Pi 08' 17.72" UBha      2    Pi   Vi
+A11                     29 Ar 26' 46.24" Krit      1    Ar   Sg
+UL                      20 Ar 59' 55.76" Bhar      3    Ar   Li
+V2                      24 Pi 21' 18.01" Reva      3    Pi   Aq
+V3                      24 Ar 21' 18.01" Bhar      4    Ar   Sc
+V4                      24 Cn 21' 18.01" Asre      3    Cn   Aq
+V5                      24 Le 21' 18.01" PPha      4    Le   Sc
+V6                      24 Sc 21' 18.01" Jye       3    Sc   Aq
+V7                      24 Sg 21' 18.01" PSha      4    Sg   Sc
+V8                      24 Pi 21' 18.01" Reva      3    Pi   Aq
+V9                      24 Ar 21' 18.01" Bhar      4    Ar   Sc
+V10                     24 Cn 21' 18.01" Asre      3    Cn   Aq
+V11                     24 Le 21' 18.01" PPha      4    Le   Sc
+V12                     24 Sc 21' 18.01" Jye       3    Sc   Aq
+Kunda                   22 Sg 45' 18.64" PSha      3    Sg   Li
+Yoga Sphuta              6 Sc 55' 53.12" Anu       2    Sc   Vi
+Avayoga Sphuta          13 Ta 35' 53.12" Rohi      2    Ta   Ta
+
